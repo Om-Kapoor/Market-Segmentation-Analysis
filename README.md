@@ -1,4 +1,3 @@
-![image](https://github.com/Om-Kapoor/Market_Segmentation_Analysis/assets/108930114/a0486e8a-a475-4ef9-976f-ea7fa4ec9e40)# Market Segmentation Analysis
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
